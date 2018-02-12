@@ -1,1 +1,1 @@
-Privet :)
+Start by command `npm start` in your shell or console

@@ -1,1 +1,1 @@
-Start by command `npm start` in your shell or console
+Run using console (cmd or bash) by command `npm start`
